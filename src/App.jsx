@@ -26,7 +26,7 @@ function App() {
       <SuvadraDidi/>
       <BoloramDa/>
     </Pasapasi>
-    <Title>Happy Rath Jatra</Title>
+    <Title>Happy Rath Yatra</Title>
     </Fullchobi>
   )
 }
